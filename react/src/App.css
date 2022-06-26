@@ -1,0 +1,35 @@
+*{
+  text-align: center;
+}
+
+.navbar_wrapper a{
+  padding-left: 30px;
+}
+
+.delete{
+  background-color: rgb(189, 1, 1);
+  color: white;
+  padding: 7px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.update{
+  background-color: rgb(0, 110, 255);
+  color: white;
+  padding: 7px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+input{
+  text-align: left;
+}
+
+.navLink{
+  color: gray;
+  text-decoration: none;
+}
+
+.navLink:hover{
+  color: lightgray;
+}
